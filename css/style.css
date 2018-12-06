@@ -1,0 +1,17 @@
+main{
+	width: 80%;
+	margin: 0 auto;
+}
+header{
+	width: 40%;
+	float: left;
+	background-color: #0F1020;
+}
+section{
+	width: 60%;
+	margin-left: 40%;
+	background-color: #531CB3;
+}
+h1,h2{
+	color:white;
+}
